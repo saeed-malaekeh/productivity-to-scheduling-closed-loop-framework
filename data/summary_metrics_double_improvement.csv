@@ -1,0 +1,15 @@
+metric,value
+Telemetry windows,2160
+Aggregated entities,124
+Flagged interventions,8
+Accuracy (3-class),0.856
+Macro F1 (3-class),0.742
+ROC-AUC (productive vs other),0.953
+MAE (score),0.049
+R2 (score),0.815
+Average PPC manual,52.2
+Average PPC monitoring only,56.4
+Average PPC closed-loop,66.5
+Final cumulative slip manual,789
+Final cumulative slip monitoring only,719
+Final cumulative slip closed-loop,554.6
