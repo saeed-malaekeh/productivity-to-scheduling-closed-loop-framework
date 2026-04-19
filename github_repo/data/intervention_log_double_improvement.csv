@@ -1,9 +1,0 @@
-date,crew_id,zone,task,planned_gap_qty,delay_risk_score,recommended_action,priority_rank
-09/01/2026,C3,Z3,MEP Rough-In,5.95,0.51,Rebalance crew and tighten zone assignment,1
-12/01/2026,C3,Z4,MEP Rough-In,9.13,0.487,Rebalance crew and tighten zone assignment,1
-13/01/2026,C3,Z4,MEP Rough-In,11.72,0.476,Rebalance crew and tighten zone assignment,1
-14/01/2026,C1,Z3,MEP Rough-In,8.09,0.469,Rebalance crew and tighten zone assignment,1
-15/01/2026,C2,Z2,MEP Rough-In,8.95,0.464,Rebalance crew and tighten zone assignment,1
-15/01/2026,C1,Z1,MEP Rough-In,9.17,0.45,Rebalance crew and tighten zone assignment,2
-22/01/2026,C2,Z3,Ceiling,10.62,0.495,Rebalance crew and tighten zone assignment,1
-22/01/2026,C3,Z3,Ceiling,9.97,0.454,Rebalance crew and tighten zone assignment,2
